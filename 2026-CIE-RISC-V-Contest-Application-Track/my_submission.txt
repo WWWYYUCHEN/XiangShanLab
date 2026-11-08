@@ -2,8 +2,4 @@ team-name: 群贤芯跳
 repo-url: https://github.com/WWWYYUCHEN/cie2026-nanqiangxintiao-xiangshanVdot.git
 github-username: WWWYYUCHEN
 contact-email: 1749852070@qq.com
-project-description: 面向边缘AI大语言模型推理的RISC-V自定义vdot指令设计——基于“香山”昆明湖V2处理器架构
-team-members: 成员1(Weiyucheng)成员2(Yujunxi)
-university: Xiamen University
-advisor: 
-phone: 
+project-description: 面向边缘AI大语言模型推理的RISC-V自定义vdot指令设计
